@@ -20,4 +20,4 @@ two from lifestyle
 	5. The judge gives one point to the winner
 	6. The players vote for their favorite. If there is a majority  that player gets 	a point, if there isn’t no extra point is given.
 	7. Put the cards in the discard and the person to the left becomes the judge.
-			8. First person to 10 points wins. 
+	8. First person to 10 points wins. 
